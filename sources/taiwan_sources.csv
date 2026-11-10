@@ -74,24 +74,22 @@ A170203010,A170203010,衛生：醫療與其他醫事機構執業醫事人員數�
 A170501010,A170501010,衛生：國民醫療保健支出統計,衛生福利部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A170501010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1996～2023,實測,索引
 A180101070,A180101070,環境：空氣污染物濃度,環境部,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A180101070&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,2001～2025,實測,索引
 A190103010,A190103010,農業：糧食供需,農業部,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A190103010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1984～2025,實測,索引
+aac_survey,,廉政民意調查（民眾對公務員清廉程度等評價）,法務部廉政署,https://www.aac.moj.gov.tw/6398/6666/6696/,年度報告列表＋開放資料,2011 起逐年報告（100 年起）；政府資料開放平臺有「廉政民意調查報告（按年）」資料集,實測（搜尋結果頁）,索引
 audit,,中央政府總決算（預算執行率）,審計部,https://www.audit.gov.tw/,列表頁,2021～2025 pdf/ods＋月報（前次盤點）,實測（前次盤點）,索引
 birthrep,,出生通報統計（出生體重、接生者）,衛生福利部國民健康署,https://www.hpa.gov.tw/Pages/TopicList.aspx?nodeid=649,年報列表（逐年）,2004～2025（93～114 年出生通報統計年報，逐年保留）,實測,索引
-bis,,BIS Effective Exchange Rates（Chinese Taipei）,BIS,https://data.bis.org/topics/EER/BIS%2CWS_EER%2C1.0/M.R.B.TW,國際資料庫,實質有效匯率（廣義）月資料，最新 2026/09；起始年頁面未讀出,實測,索引（國際來源）
 cbc_bop,,國際收支統計（經常帳、資本帳、金融帳細表）,中央銀行,https://www.cbc.gov.tw/tw/np-569-1.html,資料檔（含歷年）,1984Q1 起（季）；年資料同,實測（歐噴資料庫已上架）,索引
 cbc_debt,,外債統計（對外債務餘額、短期外債）,中央銀行,https://www.cbc.gov.tw/public/data/economic/statistics/bop/hist_Debt2.pdf,固定網址檔案（含歷年）,季 1999Q2～2026Q2（固定網址 PDF，內含歷年；年資料另見 Debt1.pdf）,實測,索引
+cbc_imf,,金融統計月報（IMF 格式：央行、存款機構、其他金融機構概況、利率、國際收支、國際投資部位等）,中央銀行,https://www.cbc.gov.tw/tw/np-530-1.html,固定檔案（含歷年，ODS／PDF）,年 1997～2025；季／月資料至 2026（8 個 ODS 檔，每月覆蓋更新但檔內含 1997 年起歷年）,實測（2026-11-10 開檔讀取年份欄）,索引
 cdc_vac,,預防接種完成率統計,衛生福利部疾病管制署,https://www.cdc.gov.tw/Category/MPage/S2UF2-VuMgfzgzpy7qdvlA,列表頁（逐年）,2015～2025（各年度 PDF，逐年保留）,實測,索引
 cec,,選舉資料庫（立法委員當選人性別）,中央選舉委員會,https://db.cec.gov.tw/,查詢系統,歷屆,實測（歐噴資料庫已上架）,索引
 customs,,海關進出口貿易統計資料庫（可依 HS、SITC、國別查詢）,財政部關務署,https://portal.sw.nat.gov.tw/APGA/GA30,查詢系統,未逐項實測；月資料長期,實測（前次盤點）,索引
+customs_time,,海關業務量統計：貨物平均通關時間（進口、出口）,財政部關務署,https://web.customs.gov.tw/,年度新聞稿,年度業務量新聞稿（可見 2014 年起）；關港貿單一窗口另有進口廣義通關時間查詢,實測（搜尋結果頁）,索引
 cwa,,氣候年報（年雨量等）＋CODiS 氣候觀測資料查詢,交通部中央氣象署,https://www.cwa.gov.tw/V8/C/A/yearpaper.html,年報列表＋查詢系統,氣候年報頁列 2012～2025；CODiS 為逐站查詢系統,實測,索引
-d360_es,,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",World Bank,https://data360.worldbank.org/en/dataset/WB_ES,國際資料庫（Data360 API）,2024（單一調查年；584 項中 581 項有台灣）,實測,索引（國際來源）
 death,,死因統計（依死因、性別、5 歲年齡組）,衛生福利部統計處,https://dep.mohw.gov.tw/DOS/lp-5069-113.html,歷年統計頁,1992～最新（年）,實測（歐噴資料庫已上架）,索引
-edgar,,EDGAR 溫室氣體排放資料庫（WDI 原始來源，含 Taiwan）,European Commission JRC,https://edgar.jrc.ec.europa.eu/report_2024,國際資料庫,EDGAR 2024 報告國別 GHG 表列 Taiwan（1990～2023）；Data360 JRC_EDGAR 的台灣資料只有空氣污染物 1970～2022,實測,索引（國際來源）
 energy_co2,,燃料燃燒之溫室氣體排放量統計（依部門）,經濟部能源署,https://ea01.moeaea.gov.tw/a0303/02/database/search/co2/,查詢系統,1990～2025（年）,實測,索引
 energy_db,,能源統計資料庫（發電量、能源指標、能源平衡表）,經濟部能源署,https://ea01.moeaea.gov.tw/a0303/02/database/search/,查詢系統,年 1982～2025；發電量月資料 1982/01～2026/09,實測,索引
 energy_gen,,發電量（依發電種類：燃煤、燃油、燃氣、核能、水力、太陽光電、風力等）,經濟部能源署,https://ea01.moeaea.gov.tw/a0303/02/database/search/electric-generation/,查詢系統,1982/01～2026/09（月／季／年）,實測,索引
 energy_idx,,能源指標（年指標：密集度、人均、依存度、線損率、再生能源占比、碳排指標）,經濟部能源署,https://ea01.moeaea.gov.tw/a0303/02/database/search/energy-index/,查詢系統,1982～2025（年）,實測,索引
-fao,,"FAOSTAT（China, Taiwan Province of）",FAO,https://www.fao.org/faostat/,國際資料庫,"FAOSTAT 以「China, Taiwan Province of」收錄（起年未實測）",實測（搜尋結果頁）,索引（國際來源）
-findex,,"Global Findex（Taiwan, China）",World Bank,https://www.worldbank.org/en/publication/globalfindex,國際資料庫,2011、2014、2017、2021、2024（Data360 WB_FINDEX 台灣 60 項）,實測,索引（國際來源）
 fish,,農業統計業務查詢：漁業別生產數量（遠洋、近海、沿岸、養殖）,農業部,https://agrstat.moa.gov.tw/moasdweb/inquire/InquireAdvance.aspx?qcode=CF01,查詢系統,1953～2025,實測,索引
 forest,,農業統計業務查詢：林地面積－按縣市別,農業部,https://agrstat.moa.gov.tw/moasdweb/inquire/InquireAdvance.aspx?qcode=AB02,查詢系統,1952～2025（林地面積；與 FAO「森林覆蓋」定義不同）,實測,索引
 fsc_atm,,金融統計：自動化服務機器概況（時間序列 xls/ods）,金融監督管理委員會銀行局,https://www.banking.gov.tw/,固定檔案（時間序列）,時間序列檔（起年未解析）,實測（搜尋結果頁）,索引
@@ -101,12 +99,9 @@ ghg,,國家溫室氣體排放清冊（依氣體、部門，含 LULUCF）,環境�
 hpa_breast,,母乳哺育率調查,衛生福利部國民健康署,https://www.hpa.gov.tw/,調查結果頁,非逐年調查；未找到歷年數列頁（國健署頁面引用 2004、2012 等調查結果）,實測（未找到數列）,索引
 hpa_kab,,避孕方法使用率（重要性別統計資料庫 461 表，來源：家庭與生育調查）,衛生福利部國民健康署,https://www.gender.ey.gov.tw/gecdb/Stat_Statistics_DetailData.aspx?sn=EncPAuc%20RcZsm6MLYqe2Jkw%40%40,統計表（ods/pdf，含各調查年）,2004～2021（93～110 年各調查年，非逐年）,實測,索引
 hpa_prenatal,,孕婦產前檢查平均利用率（CRC 兒少統計專區轉載）,衛生福利部國民健康署,https://crc.sfaa.gov.tw/,統計頁,2019～2024,實測（搜尋結果頁）,索引
-imf_weo,,IMF World Economic Outlook（Taiwan Province of China：PPP GDP、PPP 換算率等）,IMF,https://www.imf.org/en/Publications/WEO/weo-database,國際資料庫,1980～2031（含預測；Data360 IMF_WEO 台灣 21 項指標，含 PPP GDP、每人 PPP GDP、PPP 換算率）,實測,索引（國際來源）
 immig,,外僑居留人數統計（月）＋外僑居留國籍（縣市級）,內政部移民署,https://www.immigration.gov.tw/5385/7344/7350/,列表頁（逐月）,月統計表逐月保留（另有至 2015/04 之歷史彙整檔）；歐噴已上架縣市級外僑居留國籍 2008～2022,實測（搜尋結果頁）,索引
 internet,,數位近用調查（原個人家戶數位機會調查、數位發展調查）,數位發展部,https://moda.gov.tw/digital-service/dv-survey/,調查報告列表（逐年）,報告列表可見 2011～2025（114 年報告 2026/01/13 公布）；指標為 12 歲以上上網率,實測（搜尋結果頁）,索引
-iucn,,"IUCN Red List（Taiwan, Province of China）",IUCN,https://www.iucnredlist.org/,國際資料庫,"Red List 國別受威脅物種表（Table 5）列 Taiwan, Province of China，依版次",實測（搜尋結果頁）,索引（國際來源）
 law,,法規（國民教育法、學制）,全國法規資料庫,https://law.moj.gov.tw/,法規,現行（制度事實，非時間序列）,實測,索引
-lpi,,"Logistics Performance Index（Taiwan, China）",World Bank,https://lpi.worldbank.org/,國際資料庫,2007～2023（Data360 WB_LPI 台灣 7 項）,實測,索引（國際來源）
 manpower,,人力運用調查報告（部分時間工作者）,行政院主計總處,https://www.stat.gov.tw/,調查報告列表,年度報告逐年（最新 115 年）；部分時間及非典型工作者數列至少回溯 2012 年,實測（搜尋結果頁）,索引
 moa,,農業統計業務查詢（農耕土地面積、稻作與雜糧面積及產量、農業生產指數、肥料產銷）,農業部,https://agrstat.moa.gov.tw/moasdweb/inquire/InquireAdvance.aspx?qcode=AB01,查詢系統,農耕土地面積 1952～2025；稻米、雜糧產量 1952～2025；稻作、雜糧種植面積 1981～2025；作物種植面積 1966～2025；農業生產指數 1950～2025；肥料產銷 1986～2025,實測,索引
 moe,,教育統計（各級學校性別、公私立、學制、教師資格）,教育部統計處,https://depart.moe.edu.tw/ED4500/,固定檔案（含歷年）,固定網址 ods 含歷年（前次盤點）,實測（前次盤點）,索引
@@ -129,14 +124,9 @@ rd,,科學技術統計要覽（研發經費、研發人力、研究人員與人�
 red,,農業統計業務查詢：臺灣地區野生物種數統計（另有保育類野生動物名錄）,農業部,https://agrstat.moa.gov.tw/moasdweb/inquire/InquireAdvance.aspx?qcode=AC03,查詢系統,1993～2025（物種數；是否分列受威脅物種未逐欄確認）,實測,索引
 sewer,,污水下水道接管普及率,內政部國土管理署,https://www.nlma.gov.tw/ch/titlelist/bizupdates/4739,列表頁（逐月）,2009/01～2026/09（逐月檔案保留）,實測,索引
 sinica_srda,,家庭收支調查原始資料（學術調查研究資料庫 SRDA 申請）,中央研究院 SRDA,https://srda.sinica.edu.tw/,需申請之原始資料,家庭收支調查 1964 起（SRDA 收錄，最新 114 年）,實測（搜尋結果頁）,不建議（需申請原始資料）
-sipri,,SIPRI Arms Transfers／Military Expenditure（Taiwan）,SIPRI,https://www.sipri.org/databases,國際資料庫,軍事支出 1988 起（SIPRI 表列 Taiwan）,實測（搜尋結果頁）,索引（國際來源）
 smoke,,國人吸菸行為調查（18 歲以上吸菸率）,衛生福利部國民健康署,https://www.hpa.gov.tw/Pages/List.aspx?nodeid=1718,調查結果頁（逐年）,2008～2024（110 年起與健康行為調查兩年輪替）,實測（搜尋結果頁）,索引
 tbreport,,臺灣結核病防治年報（發生率、治療成功率）,衛生福利部疾病管制署,https://tbreport.cdc.gov.tw/,年報網站＋歷年年報,最新 2024 年報；數據圖表發生率 2005～2024；治療成功率依年報世代（網站圖表 2015～2023）,實測,索引
 time_use,,無酬照顧時間（主計總處性別分析；衛福部 15～64 歲婦女生活狀況調查）,行政院主計總處,https://www.stat.gov.tw/,調查報告,非逐年：婦女生活狀況調查每 5 年（108、113 年）,實測（搜尋結果頁）,索引
 tipo,,智慧財產局統計（專利、商標、設計申請，依本國人／外國人）,經濟部智慧財產局,https://www.tipo.gov.tw/,月統計列表（逐月保留）,月統計 2008/01～2026；年報另載更早年份,實測（前次盤點）,索引
-unctad,,UNCTAD Liner Shipping Connectivity Index（Taiwan Province of China）,UNCTAD,https://unctadstat.unctad.org/,國際資料庫,2006Q1～2024Q1（Data360 UNCTAD_LSC 台灣）,實測,索引（國際來源）
-wbl,,"Women, Business and the Law（Taiwan, China）",World Bank,https://wbl.worldbank.org/,國際資料庫,Data360 WB_WBL 台灣只有 2026 年（新架構 11 項）；舊版 WBL 指數（SG_LAW_INDX）Data360 未見台灣,實測,索引（國際來源）
-wgi,,"Worldwide Governance Indicators（Taiwan, China）",World Bank,https://www.worldbank.org/en/publication/worldwide-governance-indicators,國際資料庫,1996～2025（Data360 WB_WGI 台灣 6 項）,實測,索引（國際來源）
 wra,,用水統計年報彙編（各標的用水量：農業、生活、工業）,經濟部水利署,https://www.wra.gov.tw/,年報,逐年報告（館藏可見 2005 年起之各標的用水統計報告，最新為 113 年用水統計年報彙編）；另有「各項用水統計資料庫」,實測（搜尋結果頁）,索引
 wra_tap,,自來水供水普及率,經濟部水利署,https://www.wra.gov.tw/,列表頁（逐年）,2011～2025（ods/pdf 逐年，前次盤點）,實測（前次盤點）,索引
-wto,,WTO Tariff Profiles（Chinese Taipei）,WTO,https://ttd.wto.org/en/profiles/chinese-taipei,國際資料庫,WTO 會員自 2002；實施 MFN 簡單平均至 2026、貿易加權至 2025,實測（搜尋結果頁）,索引（國際來源）
