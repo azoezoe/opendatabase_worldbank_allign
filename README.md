@@ -23,6 +23,8 @@ RD 爬＝官方只提供最新一期、不保留歷史，需要定期抓取累�
 | `wdi/wdi_taiwan_mapping.csv` | 同上，CSV 格式 |
 | `data360/PR1_國際評比與調查台灣對應.html` | PR 1：Data360 國際評比與調查 28 個資料庫、1,680 項指標的台灣對應 |
 | `data360/pr1_ratings_surveys.csv` | 同上，CSV 格式 |
+| `data360/PR2_IMF_OECD等資料庫台灣對應.html` | PR 2：Data360 IMF、OECD、FAO、UNCTAD 與世界銀行主題資料庫等 43 個資料庫、1,309 項指標的台灣對應 |
+| `data360/pr2_imf_oecd_others.csv` | 同上，CSV 格式 |
 | `sources/taiwan_sources.csv` | 台灣來源總表：資料集、機關、網址、型態、完整起迄、查核方式、建議；各批次共用，新查到的來源會加進來 |
 
 起迄：主計總處總體統計資料庫逐表讀取「最早歷史資料／最新公布資料」並換算西元；其他來源開啟官方頁面、查詢系統或 Data360 API 確認，「查核」欄註明方式。
@@ -35,7 +37,7 @@ Data360 除 WDI 外另有 170 個子資料庫、8,288 項指標；其中 353 項
 |---|---|---|
 | PR 0 | 本架構、WDI 盤點、台灣來源總表 | 1,523 |
 | PR 1 | Data360 已有台灣的國際評比與調查（WGI、Findex、LPI、WBL、WEF、V-Dem、Freedom House、BTI、Polity、企業調查等） | 1,500 |
-| PR 2 | Data360 已有台灣的 IMF 與其他資料庫（IFS、WEO、CPIS、CDIS、匯率、OECD、FAO、EDGAR 等） | 1,500 |
+| PR 2 | Data360 已有台灣的 IMF 與其他資料庫（IFS、WEO、CPIS、CDIS、匯率、OECD、FAO、EDGAR、人力資本、水資源、FinData 等 43 個） | 1,309 |
 | PR 3 | 世界銀行主題資料庫（性別、健康、ESG、國際債務、氣候） | 900 |
 | PR 4 | IMF 國際收支（IMF_BOP） | 1,129 |
 | PR 5 | IMF 政府財政 GFS 系列 | 650 |
