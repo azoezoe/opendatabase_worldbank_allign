@@ -1,0 +1,141 @@
+﻿來源鍵,表號,資料集,機關,網址,型態,完整起迄,查核,建議
+A018101010,A018101010,國民所得：國民所得統計常用資料,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A018101010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1951～2025；1961Q1～2026Q2,實測,索引
+A018102010,A018102010,國民所得：GDP 依支出分與 GNI（年、季，1951～1980）,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A018102010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1951～1980；1961Q1～1980Q4,實測,索引
+A018102050,A018102050,國民所得：GDP 依支出分與 GNI（年，1981 起）,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A018102050&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1981～2025,實測,索引
+A018102060,A018102060,國民所得：GDP 依支出分與 GNI（季，1981 起）,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A018102060&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1981Q1～2026Q2,實測,索引
+A018103010,A018103010,國民所得：國內各業生產及平減指數（年）,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A018103010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1981～2025,實測,索引
+A018103020,A018103020,國民所得：國內各業生產及平減指數（季）,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A018103020&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1981Q1～2026Q2,實測,索引
+A018201010,A018201010,國民所得：國民所得、儲蓄與投資,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A018201010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1951～2025；1961Q1～2026Q2,實測,索引
+A018202010,A018202010,國民所得：平均每人統計結果,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A018202010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1951～2025；1961Q1～2026Q2,實測,索引
+A018203010,A018203010,國民所得：民間消費-年,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A018203010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1981～2025,實測,索引
+A018401010,A018401010,國民所得：固定資本形成-年,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A018401010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1951～2025,實測,索引
+A018403010,A018403010,國民所得：存貨變動,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A018403010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1951～2025,實測,索引
+A020004010,A020004010,家庭收支：戶數五等分位組之所得分配比與所得差距,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A020004010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1976～2025,實測,索引
+A030101015,A030101015,物價：消費者物價基本分類指數,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A030101015&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1981～2025；1981/01～2026/10,實測,索引
+A030201010,A030201010,物價：躉售物價內外銷分類指數,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A030201010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1981～2022；1981/01～2022/12,實測,索引
+A030301015,A030301015,物價：進口物價基本分類指數(按HS)(美元計價),行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A030301015&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1981～2025；1981/01～2026/10,實測,索引
+A030401015,A030401015,物價：出口物價基本分類指數(按HS)(美元計價),行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A030401015&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1981/01～2026/10,實測,索引
+A040101020,A040101020,勞動：勞動力-按教育程度分,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A040101020&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1978～2025；1978/01～2026/09,實測,索引
+A040102010,A040102010,勞動：勞動力-按年齡分,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A040102010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1978～2025；1978/01～2026/09,實測,索引
+A040103030,A040103030,勞動：各行業就業人口(第八次修訂 90年-100年),行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A040103030&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,2001～2011；2001/01～2011/12,實測,索引
+A040103040,A040103040,勞動：各行業就業人口(第九次修訂 101年-105年),行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A040103040&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,2012～2016；2012/01～2016/12,實測,索引
+A040103050,A040103050,勞動：各行業就業人口(第十次修訂 106年以後),行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A040103050&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,2017～2025；2017/01～2026/09,實測,索引
+A040104020,A040104020,勞動：職業別就業人口(第六次修訂 90年以後),行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A040104020&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,2001～2025；2001/01～2026/09,實測,索引
+A040105010,A040105010,勞動：從業身分別就業人口,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A040105010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1978～2025；1978/01～2026/09,實測,索引
+A040107010,A040107010,勞動：人力資源主要指標,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A040107010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1978～2025；1978/01～2026/09,實測,索引
+A040108010,A040108010,勞動：勞參率及失業率-按教育程度分,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A040108010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1978～2025；1978/01～2026/09,實測,索引
+A040109010,A040109010,勞動：勞參率及失業率-按年齡分,行政院主計總處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A040109010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1978～2025；1978/01～2026/09,實測,索引
+A050108010,A050108010,工業及商業：新登記及歇業(行業分類第八、九次修訂 96年以後),經濟部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A050108010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,2007/01～2026/09,實測,索引
+A070103010,A070103010,交通及通訊：鐵路客運量,交通部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A070103010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1971～2025；1971/01～2026/09,實測,索引
+A070103020,A070103020,交通及通訊：鐵路貨運量,交通部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A070103020&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1975～2025；1975/01～2026/09,實測,索引
+A070105030,A070105030,交通及通訊：各國際商港貨櫃裝卸量,交通部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A070105030&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1985～2025；1985/01～2026/09,實測,索引
+A070106020,A070106020,交通及通訊：航空客、貨運,交通部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A070106020&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1996～2025；1998/01～2026/09,實測,索引
+A070107010,A070107010,交通及通訊：來臺旅客人數-按居住地分,交通部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A070107010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1986～2025；2001/01～2026/08,實測,索引
+A070107020,A070107020,交通及通訊：國人出國人數,交通部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A070107020&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1986～2025；2001/01～2026/08,實測,索引
+A071101010,A071101010,交通及通訊：電信業者營運實績,國家通訊傳播委員會,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A071101010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1998～2025；2006/01～2026/09,實測,索引
+A081201010,A081201010,對外貿易：進出口貿易總值(一般貿易制度),財政部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A081201010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1971～2025；1981/01～2026/10,實測,索引
+A081202010,A081202010,對外貿易：進出口貿易值-按主要國家地區別(一般貿易制度),財政部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A081202010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1981～2025；1988/01～2026/10,實測,索引
+A090201010,A090201010,金融：各類金融機構家數,中央銀行,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A090201010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1997～2025；1997/01～2026/09,實測,索引
+A090501010,A090501010,金融：貨幣總計數,中央銀行,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A090501010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1997～2025；1997/01～2026/09,實測,索引
+A090701010,A090701010,金融：廣義貨幣總計數M2變動因素,中央銀行,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A090701010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1997～2025；1997/01～2026/09,實測,索引
+A091801010,A091801010,金融：全體銀行放款餘額-按科目別,中央銀行,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A091801010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1997～2025；1997/01～2026/09,實測,索引
+A093003010,A093003010,金融：存放款加權平均利率,中央銀行,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A093003010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1997～2025；1997Q1～2026Q3,實測,索引
+A093004010,A093004010,金融：五大銀行新承做放款金額與利率-年,中央銀行,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A093004010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1998～2025,實測,索引
+A093006010,A093006010,金融：貨幣市場利率,中央銀行,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A093006010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1997～2025；1997/01～2026/09,實測,索引
+A093102010,A093102010,金融：外匯交易量、淨部位及外匯存底-年,中央銀行,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A093102010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1999～2025,實測,索引
+A093501010,A093501010,金融：國際收支簡表,中央銀行,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A093501010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1981～2025；1981Q1～2026Q2,實測,索引
+A093601010,A093601010,金融：我國與主要貿易對手通貨對美元之匯率,中央銀行,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A093601010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1960～2025；1960/01～2026/10,實測,索引
+A100101010,A100101010,財政：全國賦稅實徵淨額-按稅目別分,財政部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A100101010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1960 會計年度～2025 會計年度；1974/01～2026/09,實測,索引
+A100201010,A100201010,財政：歲入歲出淨額、餘絀及融資,財政部統計處；審計部暨各級政府。,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A100201010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1974 會計年度～2025 會計年度,實測,索引
+A100202010,A100202010,財政：歲入淨額-按來源別分,財政部統計處；審計部暨各級政府。,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A100202010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1962 會計年度～2025 會計年度,實測,索引
+A100203010,A100203010,財政：歲出淨額-按政事別分,財政部統計處；審計部暨各級政府。,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A100203010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1962 會計年度～2025 會計年度,實測,索引
+A100210010,A100210010,財政：各級政府債務未償餘額,財政部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A100210010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1996 會計年度～2025 會計年度,實測,索引
+A110101010,A110101010,證券：公開發行公司股票發行概況,金融監督管理委員會證券期貨局,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A110101010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1987～2025；2002/01～2026/09,實測,索引
+A110203010,A110203010,證券：集中市場股票交易概況,金融監督管理委員會證券期貨局,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A110203010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,2003/01～2026/09,實測,索引
+A110401010,A110401010,證券：上市股票平均每股市值及獲利概況,金融監督管理委員會證券期貨局,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A110401010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1998/08～2026/09,實測,索引
+A130201010,A130201010,人口：村里鄰戶數暨人口數,內政部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A130201010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1991～2025；2000/01～2026/09,實測,索引
+A130203010,A130203010,人口：出生、死亡統計,內政部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A130203010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1991～2025；2000/01～2026/09,實測,索引
+A130204010,A130204010,人口：戶籍登記現住人口數-按五歲年齡組分,內政部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A130204010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1991～2025；2001/01～2026/09,實測,索引
+A130208010,A130208010,人口：15歲以上人口教育程度,內政部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A130208010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1997～2025,實測,索引
+A130210010,A130210010,人口：國際、內戶籍遷入、遷出、淨遷入人數,內政部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A130210010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1991～2025；2000/01～2026/09,實測,索引
+A130215010,A130215010,人口：平均餘命,內政部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A130215010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1957～2025,實測,索引
+A150103010,A150103010,社會保險及福利：低收入戶數與人數,衛生福利部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A150103010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1996～2025,實測,索引
+A160101010,A160101010,教育：各級學校校數、班級數、學生、畢業生及教師人數,教育部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A160101010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,2001 學年～2025 學年,實測,索引
+A160102011,A160102011,教育：中等以下教育學齡人口總淨在學率,教育部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A160102011&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,2008 學年～2025 學年,實測,索引
+A160102013,A160102013,教育：各級教育學齡人口粗在學率,教育部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A160102013&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,2008 學年～2025 學年,實測,索引
+A160103010,A160103010,教育：各級學校畢業生升學率,教育部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A160103010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1976～2025,實測,索引
+A160105010,A160105010,教育：各級學校生師比,教育部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A160105010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1999 學年～2025 學年,實測,索引
+A160107010,A160107010,教育：教育經費統計,教育部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A160107010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1961 會計年度～2025 會計年度,實測,索引
+A170103010,A170103010,衛生：新生兒、嬰兒及孕產婦死亡率,衛生福利部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A170103010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1996～2025,實測,索引
+A170104010,A170104010,衛生：事故傷害死亡概況,衛生福利部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A170104010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1986～2025,實測,索引
+A170105010,A170105010,衛生：蓄意自我傷害（自殺）年齡別死亡率,衛生福利部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A170105010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1996～2025,實測,索引
+A170201010,A170201010,衛生：醫療院所病床數及每萬人口病床數,衛生福利部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A170201010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1995～2025,實測,索引
+A170203010,A170203010,衛生：醫療與其他醫事機構執業醫事人員數及每萬人口執業醫事人員數,衛生福利部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A170203010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1995～2025,實測,索引
+A170501010,A170501010,衛生：國民醫療保健支出統計,衛生福利部統計處,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A170501010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1996～2023,實測,索引
+A180101070,A180101070,環境：空氣污染物濃度,環境部,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A180101070&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,2001～2025,實測,索引
+A190103010,A190103010,農業：糧食供需,農業部,https://nstatdb.dgbas.gov.tw/dgbasall/webMain.aspx?sys=210&x=2098&funid=A190103010&barf=&nlog=1,主計總處總體統計資料庫（查詢系統，可下載）,1984～2025,實測,索引
+audit,,中央政府總決算（預算執行率）,審計部,https://www.audit.gov.tw/,列表頁,2021～2025 pdf/ods＋月報（前次盤點）,實測（前次盤點）,索引
+birthrep,,出生通報統計（出生體重、接生者）,衛生福利部國民健康署,https://www.hpa.gov.tw/Pages/TopicList.aspx?nodeid=649,年報列表（逐年）,2004～2025（93～114 年出生通報統計年報，逐年保留）,實測,索引
+bis,,BIS Effective Exchange Rates（Chinese Taipei）,BIS,https://data.bis.org/topics/EER/BIS%2CWS_EER%2C1.0/M.R.B.TW,國際資料庫,實質有效匯率（廣義）月資料，最新 2026/09；起始年頁面未讀出,實測,索引（國際來源）
+cbc_bop,,國際收支統計（經常帳、資本帳、金融帳細表）,中央銀行,https://www.cbc.gov.tw/tw/np-569-1.html,資料檔（含歷年）,1984Q1 起（季）；年資料同,實測（歐噴資料庫已上架）,索引
+cbc_debt,,外債統計（對外債務餘額、短期外債）,中央銀行,https://www.cbc.gov.tw/public/data/economic/statistics/bop/hist_Debt2.pdf,固定網址檔案（含歷年）,季 1999Q2～2026Q2（固定網址 PDF，內含歷年；年資料另見 Debt1.pdf）,實測,索引
+cdc_vac,,預防接種完成率統計,衛生福利部疾病管制署,https://www.cdc.gov.tw/Category/MPage/S2UF2-VuMgfzgzpy7qdvlA,列表頁（逐年）,2015～2025（各年度 PDF，逐年保留）,實測,索引
+cec,,選舉資料庫（立法委員當選人性別）,中央選舉委員會,https://db.cec.gov.tw/,查詢系統,歷屆,實測（歐噴資料庫已上架）,索引
+customs,,海關進出口貿易統計資料庫（可依 HS、SITC、國別查詢）,財政部關務署,https://portal.sw.nat.gov.tw/APGA/GA30,查詢系統,未逐項實測；月資料長期,實測（前次盤點）,索引
+cwa,,氣候年報（年雨量等）＋CODiS 氣候觀測資料查詢,交通部中央氣象署,https://www.cwa.gov.tw/V8/C/A/yearpaper.html,年報列表＋查詢系統,氣候年報頁列 2012～2025；CODiS 為逐站查詢系統,實測,索引
+death,,死因統計（依死因、性別、5 歲年齡組）,衛生福利部統計處,https://dep.mohw.gov.tw/DOS/lp-5069-113.html,歷年統計頁,1992～最新（年）,實測（歐噴資料庫已上架）,索引
+edgar,,EDGAR 溫室氣體排放資料庫（WDI 原始來源，含 Taiwan）,European Commission JRC,https://edgar.jrc.ec.europa.eu/report_2024,國際資料庫,EDGAR 2024 報告國別 GHG 表列 Taiwan（1990～2023）；Data360 JRC_EDGAR 的台灣資料只有空氣污染物 1970～2022,實測,索引（國際來源）
+energy_co2,,燃料燃燒之溫室氣體排放量統計（依部門）,經濟部能源署,https://ea01.moeaea.gov.tw/a0303/02/database/search/co2/,查詢系統,1990～2025（年）,實測,索引
+energy_db,,能源統計資料庫（發電量、能源指標、能源平衡表）,經濟部能源署,https://ea01.moeaea.gov.tw/a0303/02/database/search/,查詢系統,年 1982～2025；發電量月資料 1982/01～2026/09,實測,索引
+energy_gen,,發電量（依發電種類：燃煤、燃油、燃氣、核能、水力、太陽光電、風力等）,經濟部能源署,https://ea01.moeaea.gov.tw/a0303/02/database/search/electric-generation/,查詢系統,1982/01～2026/09（月／季／年）,實測,索引
+energy_idx,,能源指標（年指標：密集度、人均、依存度、線損率、再生能源占比、碳排指標）,經濟部能源署,https://ea01.moeaea.gov.tw/a0303/02/database/search/energy-index/,查詢系統,1982～2025（年）,實測,索引
+fao,,"FAOSTAT（China, Taiwan Province of）",FAO,https://www.fao.org/faostat/,國際資料庫,"FAOSTAT 以「China, Taiwan Province of」收錄（起年未實測）",實測（搜尋結果頁）,索引（國際來源）
+findex,,"Global Findex（Taiwan, China）",World Bank,https://www.worldbank.org/en/publication/globalfindex,國際資料庫,2011、2014、2017、2021、2024（Data360 WB_FINDEX 台灣 60 項）,實測,索引（國際來源）
+fish,,農業統計業務查詢：漁業別生產數量（遠洋、近海、沿岸、養殖）,農業部,https://agrstat.moa.gov.tw/moasdweb/inquire/InquireAdvance.aspx?qcode=CF01,查詢系統,1953～2025,實測,索引
+forest,,農業統計業務查詢：林地面積－按縣市別,農業部,https://agrstat.moa.gov.tw/moasdweb/inquire/InquireAdvance.aspx?qcode=AB02,查詢系統,1952～2025（林地面積；與 FAO「森林覆蓋」定義不同）,實測,索引
+fsc_atm,,金融統計：自動化服務機器概況（時間序列 xls/ods）,金融監督管理委員會銀行局,https://www.banking.gov.tw/,固定檔案（時間序列）,時間序列檔（起年未解析）,實測（搜尋結果頁）,索引
+fsi,,金融健全指標（本國銀行逾放比、資本適足率、資本對資產比率等）,中央銀行,https://www.cbc.gov.tw/,資料檔（含歷年）,2002Q1 起（季）,實測（歐噴資料庫已上架）,索引
+gender,,重要性別統計資料庫,行政院性別平等處,https://www.gender.ey.gov.tw/gecdb/,查詢系統,依指標而異；未逐項實測,實測（搜尋結果頁）,索引
+ghg,,國家溫室氣體排放清冊（依氣體、部門，含 LULUCF）,環境部氣候變遷署,https://www.cca.gov.tw/information-service/national-ghg-inventory-report/,年度報告列表＋開放資料 GHG_P_02,1990～2024（年；2026 年版報告）,實測（搜尋結果頁）,索引
+hpa_breast,,母乳哺育率調查,衛生福利部國民健康署,https://www.hpa.gov.tw/,調查結果頁,非逐年調查；未找到歷年數列頁（國健署頁面引用 2004、2012 等調查結果）,實測（未找到數列）,索引
+hpa_kab,,避孕方法使用率（重要性別統計資料庫 461 表，來源：家庭與生育調查）,衛生福利部國民健康署,https://www.gender.ey.gov.tw/gecdb/Stat_Statistics_DetailData.aspx?sn=EncPAuc%20RcZsm6MLYqe2Jkw%40%40,統計表（ods/pdf，含各調查年）,2004～2021（93～110 年各調查年，非逐年）,實測,索引
+hpa_prenatal,,孕婦產前檢查平均利用率（CRC 兒少統計專區轉載）,衛生福利部國民健康署,https://crc.sfaa.gov.tw/,統計頁,2019～2024,實測（搜尋結果頁）,索引
+imf_weo,,IMF World Economic Outlook（Taiwan Province of China：PPP GDP、PPP 換算率等）,IMF,https://www.imf.org/en/Publications/WEO/weo-database,國際資料庫,1980～2031（含預測；Data360 IMF_WEO 台灣 21 項指標，含 PPP GDP、每人 PPP GDP、PPP 換算率）,實測,索引（國際來源）
+immig,,外僑居留人數統計（月）＋外僑居留國籍（縣市級）,內政部移民署,https://www.immigration.gov.tw/5385/7344/7350/,列表頁（逐月）,月統計表逐月保留（另有至 2015/04 之歷史彙整檔）；歐噴已上架縣市級外僑居留國籍 2008～2022,實測（搜尋結果頁）,索引
+internet,,數位近用調查（原個人家戶數位機會調查、數位發展調查）,數位發展部,https://moda.gov.tw/digital-service/dv-survey/,調查報告列表（逐年）,報告列表可見 2011～2025（114 年報告 2026/01/13 公布）；指標為 12 歲以上上網率,實測（搜尋結果頁）,索引
+iucn,,"IUCN Red List（Taiwan, Province of China）",IUCN,https://www.iucnredlist.org/,國際資料庫,"Red List 國別受威脅物種表（Table 5）列 Taiwan, Province of China，依版次",實測（搜尋結果頁）,索引（國際來源）
+law,,法規（國民教育法、學制）,全國法規資料庫,https://law.moj.gov.tw/,法規,現行（制度事實，非時間序列）,實測,索引
+lpi,,"Logistics Performance Index（Taiwan, China）",World Bank,https://lpi.worldbank.org/,國際資料庫,2007～2023（Data360 WB_LPI 台灣 7 項）,實測,索引（國際來源）
+manpower,,人力運用調查報告（部分時間工作者）,行政院主計總處,https://www.stat.gov.tw/,調查報告列表,年度報告逐年（最新 115 年）；部分時間及非典型工作者數列至少回溯 2012 年,實測（搜尋結果頁）,索引
+moa,,農業統計業務查詢（農耕土地面積、稻作與雜糧面積及產量、農業生產指數、肥料產銷）,農業部,https://agrstat.moa.gov.tw/moasdweb/inquire/InquireAdvance.aspx?qcode=AB01,查詢系統,農耕土地面積 1952～2025；稻米、雜糧產量 1952～2025；稻作、雜糧種植面積 1981～2025；作物種植面積 1966～2025；農業生產指數 1950～2025；肥料產銷 1986～2025,實測,索引
+moe,,教育統計（各級學校性別、公私立、學制、教師資格）,教育部統計處,https://depart.moe.edu.tw/ED4500/,固定檔案（含歷年）,固定網址 ods 含歷年（前次盤點）,實測（前次盤點）,索引
+mof_customs_static,,稅則稅率查詢（關港貿單一窗口）,財政部關務署,https://portal.sw.nat.gov.tw/APGQ/LoginFree,查詢系統（只有現行）,現行稅則；未見歷年稅則版本,實測（搜尋結果頁）,RD 爬（候選）：只提供現行稅則
+mof_gfs,,財政統計年報（各級政府歲出按經濟性質分、收支）,財政部統計處,https://www.mof.gov.tw/,年報列表,2006～2025 年報逐年（前次盤點）,實測（前次盤點）,索引
+mof_tobacco,,菸酒產製進口統計資料（國產及進口酒類數量）,財政部國庫署,https://www.nta.gov.tw/BOTAAA/multiplehtml/121,列表頁（逐年）,2002～2026（91～115 年，每年一頁）,實測,索引
+mofa_oda,,國際合作發展事務年度報告（ODA 金額及占 GNI 比率）,外交部／國際合作發展基金會,https://www.mofa.gov.tw/cp.aspx?n=275,年報列表,年度報告逐年（112、113 年度報告各列近 3 年 ODA）；起始年未逐份確認,實測（搜尋結果頁）,索引
+moi_life,,簡易生命表／完全生命表（年齡別生存數、死亡機率）,內政部統計處,https://www.moi.gov.tw/cl.aspx?n=2972,年報列表,生命表頁有歷史年報連結（前次盤點）；起始年未實測,實測（前次盤點）,索引
+moi_pop,,內政部戶政司人口統計資料（年度縣市及全國統計 xls/ods）,內政部戶政司,https://www.ris.gov.tw/app/portal/346,統計專區（年度表、月表，標示資料起始年）,年度表：人口按性別及五齡組 1974 起；三階段人口及扶養比、育齡婦女生育率、15 歲以上人口按年齡及教育程度、死亡按五齡組 2007 起；人口按出生地 2015 起；20～24 歲人口未滿 18 歲前曾結婚 2016 起。月表：人口按性別及年齡 2000/09 起,實測,索引
+motc,,交通部統計查詢網（鐵路營業里程、民航、航運）,交通部統計處,https://stat.motc.gov.tw/,查詢系統,可查各月／各年（前次盤點）,實測（前次盤點）,索引
+nahsit,,國民營養健康狀況變遷調查（NAHSIT）,衛生福利部國民健康署,https://www.hpa.gov.tw/,調查報告,調查期 2017–2020、2020–2024（非逐年；2020–2024 年調查 20 歲以上糖尿病盛行率 13.1%）,實測（搜尋結果頁）,索引
+ncc,,電信業務統計（行動、市話、寬頻用戶數）,國家通訊傳播委員會,https://www.ncc.gov.tw/,列表頁（逐月）,業務統計逐月保留（前次盤點）,實測（前次盤點）,索引
+nidss,,傳染病統計資料查詢系統（結核病、HIV 等法定傳染病）,衛生福利部疾病管制署,https://nidss.cdc.gov.tw/,查詢系統,結核病 2003～2026（年／月／週，查詢頁最小年 2003）；HIV 感染、AIDS 1984～2026,實測,索引
+nlma_urban,,內政統計年報：都市計畫區人口與密度,內政部（國土管理署）,https://statis.moi.gov.tw/micst/webMain.aspx?k=menuy,固定網址檔案（含歷年）,2006～2025（固定檔 report/339020.xlsx 內含歷年）,實測,索引
+npa,,刑案被害人統計─按案類別及性別分（含故意殺人，縣市級）,內政部警政署（社會經濟資料服務平台）,https://data.openfun.tw/datasets/tw.gov.moi.segis~txn~tw-04-301000000a-060037.u01co,歐噴資料庫已上架,2011～2025（縣市級，加總得全國）,實測（歐噴資料庫已上架）,索引
+oca,,海洋保護區統計,海洋委員會海洋保育署,https://mpa.oca.gov.tw/,統計頁（現況）,"現況統計（2024 年 71 處、5,402.67 平方公里）；歷年累積面積見臺灣生物多樣性觀測網 TaiBON 指標",實測（搜尋結果頁）,索引
+pirls,,PIRLS 國際閱讀素養研究（台灣參與）,IEA,https://cirn.k12ea.gov.tw/,國際資料,2006、2011、2016、2021（每 5 年；2026 年施測中）,實測（搜尋結果頁）,索引
+protect,,農業統計業務查詢：自然保護區域,農業部,https://agrstat.moa.gov.tw/moasdweb/inquire/InquireAdvance.aspx?qcode=AC01,查詢系統,1995～2025,實測,索引
+rd,,科學技術統計要覽（研發經費、研發人力、研究人員與人口數、SCIE 論文、專利）,國家科學及技術委員會,https://wsts.nstc.gov.tw/stsweb/technology/TechnologyDataIndex.aspx?language=C,年刊（各表 PDF 含歷年）＋統計查詢,2025 年版各表為「歷年」PDF；最新資料年 2025（114 年調查已於 2026/10/30 公布）；起始年未逐表解析,實測（目錄頁）,索引
+red,,農業統計業務查詢：臺灣地區野生物種數統計（另有保育類野生動物名錄）,農業部,https://agrstat.moa.gov.tw/moasdweb/inquire/InquireAdvance.aspx?qcode=AC03,查詢系統,1993～2025（物種數；是否分列受威脅物種未逐欄確認）,實測,索引
+sewer,,污水下水道接管普及率,內政部國土管理署,https://www.nlma.gov.tw/ch/titlelist/bizupdates/4739,列表頁（逐月）,2009/01～2026/09（逐月檔案保留）,實測,索引
+sinica_srda,,家庭收支調查原始資料（學術調查研究資料庫 SRDA 申請）,中央研究院 SRDA,https://srda.sinica.edu.tw/,需申請之原始資料,家庭收支調查 1964 起（SRDA 收錄，最新 114 年）,實測（搜尋結果頁）,不建議（需申請原始資料）
+sipri,,SIPRI Arms Transfers／Military Expenditure（Taiwan）,SIPRI,https://www.sipri.org/databases,國際資料庫,軍事支出 1988 起（SIPRI 表列 Taiwan）,實測（搜尋結果頁）,索引（國際來源）
+smoke,,國人吸菸行為調查（18 歲以上吸菸率）,衛生福利部國民健康署,https://www.hpa.gov.tw/Pages/List.aspx?nodeid=1718,調查結果頁（逐年）,2008～2024（110 年起與健康行為調查兩年輪替）,實測（搜尋結果頁）,索引
+tbreport,,臺灣結核病防治年報（發生率、治療成功率）,衛生福利部疾病管制署,https://tbreport.cdc.gov.tw/,年報網站＋歷年年報,最新 2024 年報；數據圖表發生率 2005～2024；治療成功率依年報世代（網站圖表 2015～2023）,實測,索引
+time_use,,無酬照顧時間（主計總處性別分析；衛福部 15～64 歲婦女生活狀況調查）,行政院主計總處,https://www.stat.gov.tw/,調查報告,非逐年：婦女生活狀況調查每 5 年（108、113 年）,實測（搜尋結果頁）,索引
+tipo,,智慧財產局統計（專利、商標、設計申請，依本國人／外國人）,經濟部智慧財產局,https://www.tipo.gov.tw/,月統計列表（逐月保留）,月統計 2008/01～2026；年報另載更早年份,實測（前次盤點）,索引
+unctad,,UNCTAD Liner Shipping Connectivity Index（Taiwan Province of China）,UNCTAD,https://unctadstat.unctad.org/,國際資料庫,2006Q1～2024Q1（Data360 UNCTAD_LSC 台灣）,實測,索引（國際來源）
+wbl,,"Women, Business and the Law（Taiwan, China）",World Bank,https://wbl.worldbank.org/,國際資料庫,Data360 WB_WBL 台灣只有 2026 年（新架構 11 項）；舊版 WBL 指數（SG_LAW_INDX）Data360 未見台灣,實測,索引（國際來源）
+wgi,,"Worldwide Governance Indicators（Taiwan, China）",World Bank,https://www.worldbank.org/en/publication/worldwide-governance-indicators,國際資料庫,1996～2025（Data360 WB_WGI 台灣 6 項）,實測,索引（國際來源）
+wra,,用水統計年報彙編（各標的用水量：農業、生活、工業）,經濟部水利署,https://www.wra.gov.tw/,年報,逐年報告（館藏可見 2005 年起之各標的用水統計報告，最新為 113 年用水統計年報彙編）；另有「各項用水統計資料庫」,實測（搜尋結果頁）,索引
+wra_tap,,自來水供水普及率,經濟部水利署,https://www.wra.gov.tw/,列表頁（逐年）,2011～2025（ods/pdf 逐年，前次盤點）,實測（前次盤點）,索引
+wto,,WTO Tariff Profiles（Chinese Taipei）,WTO,https://ttd.wto.org/en/profiles/chinese-taipei,國際資料庫,WTO 會員自 2002；實施 MFN 簡單平均至 2026、貿易加權至 2025,實測（搜尋結果頁）,索引（國際來源）
