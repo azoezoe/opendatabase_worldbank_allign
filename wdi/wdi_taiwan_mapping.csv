@@ -1318,79 +1318,79 @@ MS_MIL_TOTL_P1,武裝部隊人員,"Armed forces personnel, total",軍事,待確�
 MS_MIL_TOTL_TF_ZS,武裝部隊人員（占總勞動力 %）,Armed forces personnel (% of total labor force),軍事,待確認,,,,國軍員額：國防報告書揭露編制員額，無年度官方統計數列；需確認,待確認後決定,,1990–2020
 IC_BUS_NREG,新設立登記企業數（件數）,New businesses registered (number),企業環境,直接對應,A050108010,工業及商業：新登記及歇業(行業分類第八、九次修訂 96年以後),2007/01～2026/09,公司新設立登記家數（WDI 為有限責任公司新登記數）,索引,,2006–2022
 IC_BUS_NDNS_ZS,新設企業密度（每千名 15～64 歲人口新登記數）,"New business density (new registrations per 1,000 people ages 15-64)",企業環境,可計算,A050108010；A130204010,工業及商業：新登記及歇業(行業分類第八、九次修訂 96年以後)；人口：戶籍登記現住人口數-按五歲年齡組分,2007/01～2026/09；1991～2025；2001/01～2026/09,"新登記家數 ÷ 15～64 歲人口 ×1,000",索引來源表＋RD 計算,,2006–2022
-IC_BRE_BE_OS,B-READY：企業設立—總分,B-READY: Business Entry: Overall Score,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_BE_P1,B-READY：企業設立—支柱一：法規品質,B-READY: Business Entry Pillar 1: Quality of Regulations for Business Entry,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_BE_P2,B-READY：企業設立—支柱二：公共服務,B-READY: Business Entry Pillar 2: Digital Public Services and Transparency of Information for Business Entry,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_BE_P3,B-READY：企業設立—支柱三：營運效率,B-READY: Business Entry Pillar 3: Operational Efficiency of Business Entry,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_BI_OS,B-READY：企業破產—總分,B-READY: Business Insolvency: Overall Score,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_BI_P1,B-READY：企業破產—支柱一：法規品質,B-READY: Business Insolvency Pillar 1: Quality of Regulations for Judicial Insolvency Proceedings,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_BI_P2,B-READY：企業破產—支柱二：公共服務,B-READY: Business Insolvency Pillar 2: Quality of Institutional and Operational Infrastructure for Judicial Insolvency Proceedings,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_BI_P3,B-READY：企業破產—支柱三：營運效率,B-READY: Business Insolvency Pillar 3: Operational Efficiency of Resolving Judicial Insolvency Proceedings,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_BL_OS,B-READY：企業營運地點—總分,B-READY: Business Location: Overall Score,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_BL_P1,B-READY：企業營運地點—支柱一：法規品質,B-READY: Business Location Pillar 1: Quality of Regulations for Business Location,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_BL_P2,B-READY：企業營運地點—支柱二：公共服務,B-READY: Business Location Pillar 2: Quality of Public Services and Transparency of Information for Business Location,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_BL_P3,B-READY：企業營運地點—支柱三：營運效率,B-READY: Business Location Pillar 3: Operational Efficiency of Establishing a Business Location,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_DR_OS,B-READY：爭議解決—總分,B-READY: Dispute Resolution: Overall Score,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_DR_P1,B-READY：爭議解決—支柱一：法規品質,B-READY: Dispute Resolution Pillar 1: Quality of Regulations for Dispute Resolution,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_DR_P2,B-READY：爭議解決—支柱二：公共服務,B-READY: Dispute Resolution Pillar 2: Public Services for Dispute Resolution,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_DR_P3,B-READY：爭議解決—支柱三：營運效率,B-READY: Dispute Resolution Pillar 3:  Ease of Resolving a Commercial Dispute,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_FS_OS,B-READY：金融服務—總分,B-READY: Financial Services: Overall Score,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_FS_P1,B-READY：金融服務—支柱一：法規品質,B-READY: Financial Services Pillar 1: Quality of Regulations for Financial Services,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_FS_P2,B-READY：金融服務—支柱二：公共服務,B-READY: Financial Services Pillar 2: Accessibility of Information in Credit Infrastructure,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_FS_P3,B-READY：金融服務—支柱三：營運效率,B-READY: Financial Services Pillar 3: Operational Efficiency of Receiving Financial Services,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_IT_OS,B-READY：國際貿易—總分,B-READY: International Trade: Overall Score,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_IT_P1,B-READY：國際貿易—支柱一：法規品質,B-READY: International Trade Pillar 1: Quality of Regulations for International Trade,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_IT_P2,B-READY：國際貿易—支柱二：公共服務,B-READY: International Trade Pillar 2: Quality of Public Services for the Facilitation of International Trade,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_IT_P3,B-READY：國際貿易—支柱三：營運效率,"B-READY: International Trade Pillar 3: Efficiency of Importing Goods, Exporting Goods, and Engaging in Digital Trade",企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_LB_OS,B-READY：勞動—總分,B-READY: Labor: Overall Score,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_LB_P1,B-READY：勞動—支柱一：法規品質,B-READY: Labor Pillar 1: Quality of Labor Regulations,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_LB_P2,B-READY：勞動—支柱二：公共服務,B-READY: Labor Pillar 2: Adequacy of Public Services for Labor,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_LB_P3,B-READY：勞動—支柱三：營運效率,B-READY: Labor Pillar 3: Operational Efficiency of Labor Regulations and Public Services in Practice,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_MC_OS,B-READY：市場競爭—總分,B-READY: Market Competition: Overall Score,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_MC_P1,B-READY：市場競爭—支柱一：法規品質,B-READY: Market Competition Pillar 1: Quality of Regulations that Promote Market Competition,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_MC_P2,B-READY：市場競爭—支柱二：公共服務,B-READY: Market Competition Pillar 2: Public Services that Promote Market Competition,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_MC_P3,B-READY：市場競爭—支柱三：營運效率,B-READY: Market Competition Pillar 3:  Implementation of Key Services Promoting Market Competition,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_P1_RF,B-READY：法規架構,B-READY: Pillar 1: Regulatory Framework,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_P2_PS,B-READY：公共服務,B-READY: Pillar 2: Public Services,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_P3_OE,B-READY：營運效率,B-READY: Pillar 3: Operational Efficiency,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_TX_P1,B-READY：稅務—支柱一：法規品質,B-READY: Taxation Pillar 1: Quality of Regulations on Taxation,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_TX_P2,B-READY：稅務—支柱二：公共服務,B-READY: Taxation Pillar 2: Public Services Provided by the Tax Administration,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_TX_P3,B-READY：稅務—支柱三：營運效率,B-READY: Taxation Pillar 3: Operational Efficiency of Tax Systems in Practice,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_US_OS,B-READY：公用事業服務—總分,B-READY: Utility Services: Overall Score,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_US_P1,B-READY：公用事業服務—支柱一：法規品質,B-READY: Utility Services Pillar 1: Quality of Regulations on Utility Services,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_US_P2,B-READY：公用事業服務—支柱二：公共服務,B-READY: Utility Services Pillar 2: Quality of Governance and Transparency of Utility Services,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_BRE_US_P3,B-READY：公用事業服務—支柱三：營運效率,B-READY: Utility Services Pillar 3: Operational Efficiency of Utility Service Provision,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2024–2024
-IC_CUS_DURS_EX,出口通關平均天數（天）,Average time to clear exports through customs (days),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2002–2025
-IC_CUS_DURS_IM,進口通關平均天數（天）,Average time to clear imports through customs (days),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2002–2025
-IC_ELC_DURS,取得電力連接所需時間（天）,Time to obtain an electrical connection (days),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2002–2025
-IC_ELC_OUTG_ZS,遭遇停電企業比率（占企業 %）,Firms experiencing electrical outages (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2006–2025
-IC_FRM_BKWC_ZS,以銀行融資營運資金之企業比率（占企業 %）,Firms using banks to finance working capital (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2002–2025
-IC_FRM_BNKL_ZS,有銀行貸款／信用額度企業比率（占企業 %）,Firms with a bank loan/line of credit (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2006–2025
-IC_FRM_BNKS_ZS,以銀行融資投資之企業比率（占企業 %）,Firms using banks to finance investment (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2002–2025
-IC_FRM_BRIB_ZS,企業遭索賄比率（占企業 %）,Bribery incidence (% of firms experiencing at least one bribe payment request),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2006–2025
-IC_FRM_CDP_ZS,透過第三方解決商業糾紛企業比率（占企業 %）,Firms that use a third party to resolve commercial disputes (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2021–2025
-IC_FRM_CMPU_ZS,與未登記企業競爭之企業比率（占企業 %）,Firms competing against unregistered firms (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2006–2025
-IC_FRM_CO2_ZS,監測自身 CO₂ 排放企業比率（占企業 %）,Firms monitoring own CO2 emissions (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2021–2025
-IC_FRM_CORR_ZS,對公務員非正式付款企業比率（占企業 %）,Informal payments to public officials (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2002–2025
-IC_FRM_CRDC_FL_ZS,完全受信用限制企業比率（占企業 %）,Firms that are fully credit constrained (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2013–2025
-IC_FRM_CRDC_PT_ZS,部分受信用限制企業比率（占企業 %）,Firms that are partially credit constrained (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2013–2025
-IC_FRM_DURS,取得營業執照所需時間（天）,Time required to obtain an operating license (days),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2003–2025
-IC_FRM_ENGM_ZS,採取節能減排措施企業比率（占企業 %）,Firms adopting energy management measures to reduce emissions (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2021–2025
-IC_FRM_EXS_ZS,直接出口占銷售 10% 以上企業比率（占企業 %）,Firms exporting directly at least 10% of sales (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2006–2025
-IC_FRM_FEMM_ZS,女性最高主管企業比率（占企業 %）,Firms with female top manager (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2007–2025
-IC_FRM_FEMO_ZS,女性參與持股企業比率（占企業 %）,Firms with female participation in ownership (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2004–2025
-IC_FRM_FO_ZS,外資持股 10% 以上企業比率,Firms with at least 10% foreign ownership,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2006–2025
-IC_FRM_FREG_ZS,開業時即正式登記企業比率（占企業 %）,Firms formally registered when operations started (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2006–2025
-IC_FRM_LOTM_ZS,最大股東兼任最高主管企業比率（占企業 %）,Firms where largest owner is also the top manager (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2009–2025
-IC_FRM_METG_ZS,曾被稅務人員訪查企業比率（占企業 %）,Firms visited or required meetings with tax officials (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2006–2025
-IC_FRM_NPRD_ZS,推出新產品／製程且投入研發企業比率,"Firms that introduced a new product/service and process, and spent on R&D",企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2006–2024
-IC_FRM_OUTG_ZS,停電造成之銷售損失（占受影響企業銷售 %）,Value lost due to electrical outages (% of sales for affected firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2006–2025
-IC_FRM_TAXE_ZS,電子報稅企業比率（占企業 %）,Firms filling taxes electronically (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2021–2025
-IC_FRM_TRNG_ZS,提供正式訓練企業比率（占企業 %）,Firms offering formal training (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2002–2025
-IC_GOV_DURS_ZS,處理政府法規要求時間占比（占高階主管時間 %）,Time spent dealing with the requirements of government regulations (% of senior management time),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2002–2025
-IC_MNG_IND,管理實務指數,Management practices index,企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2018–2025
-IC_TAX_GIFT_ZS,與稅務人員會面需送禮企業比率（占企業 %）,Firms expected to give gifts in meetings with tax officials (% of firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2002–2025
-IC_TAX_METG,與稅務人員會面次數（受影響企業平均）,Number of visits or required meetings with tax officials (average for affected firms),企業環境,不適用,,,,世界銀行企業調查（Enterprise Surveys）／B-READY 未調查台灣,不收（不適用）,,2006–2025
+IC_CUS_DURS_EX,出口通關平均天數（天）,Average time to clear exports through customs (days),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2002–2025
+IC_CUS_DURS_IM,進口通關平均天數（天）,Average time to clear imports through customs (days),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2002–2025
+IC_ELC_DURS,取得電力連接所需時間（天）,Time to obtain an electrical connection (days),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2002–2025
+IC_ELC_OUTG_ZS,遭遇停電企業比率（占企業 %）,Firms experiencing electrical outages (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2006–2025
+IC_FRM_BKWC_ZS,以銀行融資營運資金之企業比率（占企業 %）,Firms using banks to finance working capital (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2002–2025
+IC_FRM_BNKL_ZS,有銀行貸款／信用額度企業比率（占企業 %）,Firms with a bank loan/line of credit (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2006–2025
+IC_FRM_BNKS_ZS,以銀行融資投資之企業比率（占企業 %）,Firms using banks to finance investment (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2002–2025
+IC_FRM_BRIB_ZS,企業遭索賄比率（占企業 %）,Bribery incidence (% of firms experiencing at least one bribe payment request),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2006–2025
+IC_FRM_CDP_ZS,透過第三方解決商業糾紛企業比率（占企業 %）,Firms that use a third party to resolve commercial disputes (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2021–2025
+IC_FRM_CMPU_ZS,與未登記企業競爭之企業比率（占企業 %）,Firms competing against unregistered firms (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2006–2025
+IC_FRM_CO2_ZS,監測自身 CO₂ 排放企業比率（占企業 %）,Firms monitoring own CO2 emissions (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2021–2025
+IC_FRM_CORR_ZS,對公務員非正式付款企業比率（占企業 %）,Informal payments to public officials (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2002–2025
+IC_FRM_CRDC_FL_ZS,完全受信用限制企業比率（占企業 %）,Firms that are fully credit constrained (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2013–2025
+IC_FRM_CRDC_PT_ZS,部分受信用限制企業比率（占企業 %）,Firms that are partially credit constrained (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2013–2025
+IC_FRM_DURS,取得營業執照所需時間（天）,Time required to obtain an operating license (days),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2003–2025
+IC_FRM_ENGM_ZS,採取節能減排措施企業比率（占企業 %）,Firms adopting energy management measures to reduce emissions (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2021–2025
+IC_FRM_EXS_ZS,直接出口占銷售 10% 以上企業比率（占企業 %）,Firms exporting directly at least 10% of sales (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2006–2025
+IC_FRM_FEMM_ZS,女性最高主管企業比率（占企業 %）,Firms with female top manager (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2007–2025
+IC_FRM_FEMO_ZS,女性參與持股企業比率（占企業 %）,Firms with female participation in ownership (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2004–2025
+IC_FRM_FO_ZS,外資持股 10% 以上企業比率,Firms with at least 10% foreign ownership,企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2006–2025
+IC_FRM_FREG_ZS,開業時即正式登記企業比率（占企業 %）,Firms formally registered when operations started (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2006–2025
+IC_FRM_LOTM_ZS,最大股東兼任最高主管企業比率（占企業 %）,Firms where largest owner is also the top manager (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2009–2025
+IC_FRM_METG_ZS,曾被稅務人員訪查企業比率（占企業 %）,Firms visited or required meetings with tax officials (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2006–2025
+IC_FRM_NPRD_ZS,推出新產品／製程且投入研發企業比率,"Firms that introduced a new product/service and process, and spent on R&D",企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2006–2024
+IC_FRM_OUTG_ZS,停電造成之銷售損失（占受影響企業銷售 %）,Value lost due to electrical outages (% of sales for affected firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2006–2025
+IC_FRM_TAXE_ZS,電子報稅企業比率（占企業 %）,Firms filling taxes electronically (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2021–2025
+IC_FRM_TRNG_ZS,提供正式訓練企業比率（占企業 %）,Firms offering formal training (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2002–2025
+IC_GOV_DURS_ZS,處理政府法規要求時間占比（占高階主管時間 %）,Time spent dealing with the requirements of government regulations (% of senior management time),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2002–2025
+IC_MNG_IND,管理實務指數,Management practices index,企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2018–2025
+IC_TAX_GIFT_ZS,與稅務人員會面需送禮企業比率（占企業 %）,Firms expected to give gifts in meetings with tax officials (% of firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2002–2025
+IC_TAX_METG,與稅務人員會面次數（受影響企業平均）,Number of visits or required meetings with tax officials (average for affected firms),企業環境,國際資料庫有台灣,d360_es,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",2024（單一調查年；584 項中 581 項有台灣）,世界銀行企業調查有台灣（Data360 WB_ES，2024 年調查，可依製造業／服務業分）,索引（國際來源）,,2006–2025
+IC_BRE_BE_OS,B-READY：企業設立—總分,B-READY: Business Entry: Overall Score,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_BE_P1,B-READY：企業設立—支柱一：法規品質,B-READY: Business Entry Pillar 1: Quality of Regulations for Business Entry,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_BE_P2,B-READY：企業設立—支柱二：公共服務,B-READY: Business Entry Pillar 2: Digital Public Services and Transparency of Information for Business Entry,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_BE_P3,B-READY：企業設立—支柱三：營運效率,B-READY: Business Entry Pillar 3: Operational Efficiency of Business Entry,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_BI_OS,B-READY：企業破產—總分,B-READY: Business Insolvency: Overall Score,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_BI_P1,B-READY：企業破產—支柱一：法規品質,B-READY: Business Insolvency Pillar 1: Quality of Regulations for Judicial Insolvency Proceedings,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_BI_P2,B-READY：企業破產—支柱二：公共服務,B-READY: Business Insolvency Pillar 2: Quality of Institutional and Operational Infrastructure for Judicial Insolvency Proceedings,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_BI_P3,B-READY：企業破產—支柱三：營運效率,B-READY: Business Insolvency Pillar 3: Operational Efficiency of Resolving Judicial Insolvency Proceedings,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_BL_OS,B-READY：企業營運地點—總分,B-READY: Business Location: Overall Score,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_BL_P1,B-READY：企業營運地點—支柱一：法規品質,B-READY: Business Location Pillar 1: Quality of Regulations for Business Location,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_BL_P2,B-READY：企業營運地點—支柱二：公共服務,B-READY: Business Location Pillar 2: Quality of Public Services and Transparency of Information for Business Location,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_BL_P3,B-READY：企業營運地點—支柱三：營運效率,B-READY: Business Location Pillar 3: Operational Efficiency of Establishing a Business Location,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_DR_OS,B-READY：爭議解決—總分,B-READY: Dispute Resolution: Overall Score,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_DR_P1,B-READY：爭議解決—支柱一：法規品質,B-READY: Dispute Resolution Pillar 1: Quality of Regulations for Dispute Resolution,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_DR_P2,B-READY：爭議解決—支柱二：公共服務,B-READY: Dispute Resolution Pillar 2: Public Services for Dispute Resolution,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_DR_P3,B-READY：爭議解決—支柱三：營運效率,B-READY: Dispute Resolution Pillar 3:  Ease of Resolving a Commercial Dispute,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_FS_OS,B-READY：金融服務—總分,B-READY: Financial Services: Overall Score,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_FS_P1,B-READY：金融服務—支柱一：法規品質,B-READY: Financial Services Pillar 1: Quality of Regulations for Financial Services,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_FS_P2,B-READY：金融服務—支柱二：公共服務,B-READY: Financial Services Pillar 2: Accessibility of Information in Credit Infrastructure,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_FS_P3,B-READY：金融服務—支柱三：營運效率,B-READY: Financial Services Pillar 3: Operational Efficiency of Receiving Financial Services,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_IT_OS,B-READY：國際貿易—總分,B-READY: International Trade: Overall Score,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_IT_P1,B-READY：國際貿易—支柱一：法規品質,B-READY: International Trade Pillar 1: Quality of Regulations for International Trade,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_IT_P2,B-READY：國際貿易—支柱二：公共服務,B-READY: International Trade Pillar 2: Quality of Public Services for the Facilitation of International Trade,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_IT_P3,B-READY：國際貿易—支柱三：營運效率,"B-READY: International Trade Pillar 3: Efficiency of Importing Goods, Exporting Goods, and Engaging in Digital Trade",企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_LB_OS,B-READY：勞動—總分,B-READY: Labor: Overall Score,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_LB_P1,B-READY：勞動—支柱一：法規品質,B-READY: Labor Pillar 1: Quality of Labor Regulations,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_LB_P2,B-READY：勞動—支柱二：公共服務,B-READY: Labor Pillar 2: Adequacy of Public Services for Labor,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_LB_P3,B-READY：勞動—支柱三：營運效率,B-READY: Labor Pillar 3: Operational Efficiency of Labor Regulations and Public Services in Practice,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_MC_OS,B-READY：市場競爭—總分,B-READY: Market Competition: Overall Score,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_MC_P1,B-READY：市場競爭—支柱一：法規品質,B-READY: Market Competition Pillar 1: Quality of Regulations that Promote Market Competition,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_MC_P2,B-READY：市場競爭—支柱二：公共服務,B-READY: Market Competition Pillar 2: Public Services that Promote Market Competition,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_MC_P3,B-READY：市場競爭—支柱三：營運效率,B-READY: Market Competition Pillar 3:  Implementation of Key Services Promoting Market Competition,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_P1_RF,B-READY：法規架構,B-READY: Pillar 1: Regulatory Framework,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_P2_PS,B-READY：公共服務,B-READY: Pillar 2: Public Services,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_P3_OE,B-READY：營運效率,B-READY: Pillar 3: Operational Efficiency,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_TX_P1,B-READY：稅務—支柱一：法規品質,B-READY: Taxation Pillar 1: Quality of Regulations on Taxation,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_TX_P2,B-READY：稅務—支柱二：公共服務,B-READY: Taxation Pillar 2: Public Services Provided by the Tax Administration,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_TX_P3,B-READY：稅務—支柱三：營運效率,B-READY: Taxation Pillar 3: Operational Efficiency of Tax Systems in Practice,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_US_OS,B-READY：公用事業服務—總分,B-READY: Utility Services: Overall Score,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_US_P1,B-READY：公用事業服務—支柱一：法規品質,B-READY: Utility Services Pillar 1: Quality of Regulations on Utility Services,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_US_P2,B-READY：公用事業服務—支柱二：公共服務,B-READY: Utility Services Pillar 2: Quality of Governance and Transparency of Utility Services,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
+IC_BRE_US_P3,B-READY：公用事業服務—支柱三：營運效率,B-READY: Utility Services Pillar 3: Operational Efficiency of Utility Service Provision,企業環境,不適用,,,,B-READY 未評比台灣（Data360 WB_BREADY 無台灣）,不收（不適用）,,2024–2024
 IE_PPI_ENGY_CD,民間參與能源投資（當期美元）,Investment in energy with private participation (current US$),企業環境,不適用,,,,世界銀行 PPI 資料庫只涵蓋中低所得國,不收（不適用）,,1984–2023
 IE_PPI_ICTI_CD,民間參與 ICT 投資（當期美元）,Investment in ICT with private participation (current US$),企業環境,不適用,,,,世界銀行 PPI 資料庫只涵蓋中低所得國,不收（不適用）,,1985–2023
 IE_PPI_TRAN_CD,民間參與交通投資（當期美元）,Investment in transport with private participation (current US$),企業環境,不適用,,,,世界銀行 PPI 資料庫只涵蓋中低所得國,不收（不適用）,,1984–2023

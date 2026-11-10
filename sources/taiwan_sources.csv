@@ -83,6 +83,7 @@ cdc_vac,,預防接種完成率統計,衛生福利部疾病管制署,https://www.
 cec,,選舉資料庫（立法委員當選人性別）,中央選舉委員會,https://db.cec.gov.tw/,查詢系統,歷屆,實測（歐噴資料庫已上架）,索引
 customs,,海關進出口貿易統計資料庫（可依 HS、SITC、國別查詢）,財政部關務署,https://portal.sw.nat.gov.tw/APGA/GA30,查詢系統,未逐項實測；月資料長期,實測（前次盤點）,索引
 cwa,,氣候年報（年雨量等）＋CODiS 氣候觀測資料查詢,交通部中央氣象署,https://www.cwa.gov.tw/V8/C/A/yearpaper.html,年報列表＋查詢系統,氣候年報頁列 2012～2025；CODiS 為逐站查詢系統,實測,索引
+d360_es,,"World Bank Enterprise Surveys（Data360 WB_ES，Taiwan, China）",World Bank,https://data360.worldbank.org/en/dataset/WB_ES,國際資料庫（Data360 API）,2024（單一調查年；584 項中 581 項有台灣）,實測,索引（國際來源）
 death,,死因統計（依死因、性別、5 歲年齡組）,衛生福利部統計處,https://dep.mohw.gov.tw/DOS/lp-5069-113.html,歷年統計頁,1992～最新（年）,實測（歐噴資料庫已上架）,索引
 edgar,,EDGAR 溫室氣體排放資料庫（WDI 原始來源，含 Taiwan）,European Commission JRC,https://edgar.jrc.ec.europa.eu/report_2024,國際資料庫,EDGAR 2024 報告國別 GHG 表列 Taiwan（1990～2023）；Data360 JRC_EDGAR 的台灣資料只有空氣污染物 1970～2022,實測,索引（國際來源）
 energy_co2,,燃料燃燒之溫室氣體排放量統計（依部門）,經濟部能源署,https://ea01.moeaea.gov.tw/a0303/02/database/search/co2/,查詢系統,1990～2025（年）,實測,索引
